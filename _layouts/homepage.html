@@ -85,7 +85,9 @@
     
     <div class="topnav">
 
-      <a href="{{ site.affiliation_link }}"><img src="{{ site.affiliation_logo }}" style="height: 36px; width: auto; display: block;"></a>
+      <a href="{{ site.affiliation_link }}" style="display:block; line-height:0;">
+  <img src="../{{ site.affiliation_logo }}" alt="logo">
+</a>
 
       <div id="myLinks">
       {% include navigation-home.md %}
