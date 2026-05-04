@@ -10,13 +10,14 @@ main:
     page: https://imagenet3d.github.io/
     image: https://img.yliu.me/teaser/imagenet3d.png
 
+
   - title: "MediVLM: A Vision Language Model for Radiology Report Generation from Medical Images"
-    authors: <strong>Debanjan Goswami</strong>
-    conference_short: EMNLP Findings
-    conference: Findings of the Association for Computational Linguistics: EMNLP 2025.
-    pdf: https://aclanthology.org/2025.findings-emnlp.544/
-    bibtex: https://aclanthology.org/2025.findings-emnlp.544.bib
-    code: https://github.com/sonai-commits/MediVLM
+    authors: "<strong>Debanjan Goswami</strong>"
+    conference_short: "EMNLP Findings"
+    conference: "Findings of the Association for Computational Linguistics: EMNLP 2025."
+    pdf: "https://aclanthology.org/2025.findings-emnlp.544/"
+    bibtex: "https://aclanthology.org/2025.findings-emnlp.544.bib"
+    code: "https://github.com/sonai-commits/MediVLM"
 
   - title: "HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting"
     authors: Yuanhao Cai, Zihao Xiao, Yixun Liang, Minghan Qin, Yulun Zhang, Xiaokang Yang, <strong>Yaoyao Liu</strong>, Alan Yuille
