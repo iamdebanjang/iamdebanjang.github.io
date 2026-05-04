@@ -18,6 +18,7 @@ main:
     pdf: "https://aclanthology.org/2025.findings-emnlp.544/"
     bibtex: "https://aclanthology.org/2025.findings-emnlp.544.bib"
     code: "https://github.com/sonai-commits/MediVLM"
+    image: "/assets/img/publications/medivlm.png"
 
   - title: "HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting"
     authors: Yuanhao Cai, Zihao Xiao, Yixun Liang, Minghan Qin, Yulun Zhang, Xiaokang Yang, <strong>Yaoyao Liu</strong>, Alan Yuille
