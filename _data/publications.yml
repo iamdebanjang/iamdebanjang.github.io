@@ -57,7 +57,7 @@ main:
     pdf: "https://ieeexplore.ieee.org/document/10191348"
     image: "/assets/img/ijcnn_alvideo_teaser.png"
 
-  - title: "Active Learning for Video Classification with Frame Level Queries"
+  - title: "LlIE-CvT: A Convolutional Vision Transformer For Low Light Image Enhancement"
     authors: "<strong>Debanjan Goswami</strong>, Shayok Chakraborty"
     conference_short: "IJCNN"
     conference: "International Joint Conference on Neural Networks (IJCNN), 2023."
