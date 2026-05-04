@@ -2,10 +2,11 @@
 
 <h2 style="margin: 60px 0px 10px;">Services</h2>
 
+<!-- (by Debu)
 <h4 style="margin:0 10px 0;">Associate Editor</h4>
 
 
-<!-- (by Debu)
+
 <ul style="margin:0 0 5px;">
   <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
 </ul>
