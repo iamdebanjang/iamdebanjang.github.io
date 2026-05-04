@@ -61,7 +61,6 @@ main:
     authors: "<strong>Debanjan Goswami</strong>, Shayok Chakraborty"
     conference_short: "IJCNN"
     conference: "International Joint Conference on Neural Networks (IJCNN), 2023."
-    pdf: "https://ieeexplore.ieee.org/document/10191348"
     image: "/assets/img/ijcnn_alvideo_teaser.png"
 
 
