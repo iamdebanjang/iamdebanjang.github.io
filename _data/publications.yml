@@ -57,11 +57,11 @@ main:
     pdf: "https://ieeexplore.ieee.org/document/10191348"
     image: "/assets/img/ijcnn_alvideo_teaser.png"
 
-- title: "LlIE-CvT: A Convolutional Vision Transformer For Low Light Image Enhancement"
+ - title: "LlIE-CvT: A Convolutional Vision Transformer For Low Light Image Enhancement"
     authors: "<strong>Debanjan Goswami</strong>, Bishal Bashyal, Shayok Chakraborty"
     conference_short: "ICPR"
     conference: "International Conference on Pattern Recognition (ICPR), 2026."
-    notes: Arxiv coming soon
+    notes: "Arxiv coming soon"
     image: "/assets/img/icpr_lowlight_teaser.png"
 
   
