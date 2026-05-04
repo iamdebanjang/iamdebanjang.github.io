@@ -8,7 +8,7 @@ layout: homepage
 
 I am a doctoral researcher in [Department of Computer Science](https://www.cs.fsu.edu/) at the [Florida State University](https://www.fsu.edu/).
 
-My research sits in **Multi-modal Learning** at the intersection of **Computer Vision**(CV), **Natural Language Processing**(NLP) with a focus on developing intelligent visual and language systems that are both weakly-supervised and data-efficient. I am particularly interested in areas such as active/incremental learning,  few-shot learning, generative and agentic models, and medical image analysis.
+My research sits in **Multi-modal Learning** at the intersection of **Computer Vision** (CV), **Natural Language Processing** (NLP) with a focus on developing intelligent visual and language systems that are both weakly-supervised and data-efficient. I am particularly interested in areas such as active/incremental learning,  few-shot learning, generative mpdeling, agentic models, and medical image analysis.
 
 <div style="border: 1px solid #ccc; padding: 11px; background-color: #f9f9f9; color: #333; border-radius: 5px;">
 <strong style="color:#e74d3c;">
