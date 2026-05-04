@@ -33,13 +33,21 @@ main:
 
 
   - title: "ACIL: Active Class Incremental Learning for Image Classification"
-    authors: "<strong>Debanjan Goswami</strong>, Shayok Chakraborty"
+    authors: "Aditya Bhattacharya*,<strong>Debanjan Goswami*</strong>, Shayok Chakraborty"
     conference_short: "BMVC"
     conference: "British Machine Vision Conference (BMVC), 2024."
     pdf: "https://bmva-archive.org.uk/bmvc/2024/papers/Paper_388/paper.pdf"
     image: "/assets/img/wacv_almultilabel_teaser.png"
-    
 
+
+  - title: "Active Batch Sampling for Multi-label Classification with Binary User Feedback"
+    authors: "<strong>Debanjan Goswami</strong>, Shayok Chakraborty"
+    conference_short: "WACV"
+    conference: "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2024."
+    pdf: "https://openaccess.thecvf.com/content/WACV2024/papers/Goswami_Active_Batch_Sampling_for_Multi-Label_Classification_With_Binary_User_Feedback_WACV_2024_paper.pdf"
+    image: "/assets/img/publications/wacv_almultilabel_teaser.png"
+
+  
   - title: "HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting"
     authors: Yuanhao Cai, Zihao Xiao, Yixun Liang, Minghan Qin, Yulun Zhang, Xiaokang Yang, <strong>Yaoyao Liu</strong>, Alan Yuille
     conference_short: NeurIPS
