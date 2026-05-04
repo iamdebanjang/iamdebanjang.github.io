@@ -24,7 +24,7 @@ main:
     image: "/assets/img/medivlm_teaser.png"
 
   - title: "Active Learning for Image Segmentation with Binary User Feedback"
-    authors: "<strong>Debanjan Goswami</strong>, [add co-authors here]"
+    authors: "<strong>Debanjan Goswami</strong>"
     conference_short: "WACV"
     conference: "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025."
     image: "/assets/img/wacv_alseg_teaser.png"
