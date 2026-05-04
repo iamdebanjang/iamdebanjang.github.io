@@ -27,6 +27,8 @@ main:
     authors: "<strong>Debanjan Goswami</strong>"
     conference_short: "WACV"
     conference: "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025."
+    pdf: "https://openaccess.thecvf.com/content/WACV2024/papers/Goswami_Active_Batch_Sampling_for_Multi-Label_Classification_With_Binary_User_Feedback_WACV_2024_paper.pdf"
+    Supp: "https://openaccess.thecvf.com/content/WACV2024/supplemental/Goswami_Active_Batch_Sampling_WACV_2024_supplemental.pdf"
     image: "/assets/img/wacv_alseg_teaser.png"
 
   - title: "HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting"
