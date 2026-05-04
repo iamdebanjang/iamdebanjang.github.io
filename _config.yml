@@ -7,12 +7,12 @@ affiliation_logo: ./assets/img/FSU.svg
 email: dgoswami (at) fsu.edu
 
 # Search Engine Optimization (SEO)
-keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
-canonical: https://yaoyaoliu.web.illinois.edu
-description: Yaoyao Liu is an assistant professor at the University of Illinois Urbana-Champaign. His research lies in meta-learning, incremental learning, and image generation.
+keywords: debanjan goswami, goswami debanjan, debanjangoswami, goswamidebanjan, debanjan, goswami
+canonical: https://debanjangoswami.com
+description: Debanjan Goswami is a doctoral student in Computer Science at the Florida State University. His research lies in Computer Vision, Language Models, and Active Learning.
 
 # The option is used to enable the Illinois template.
-enable_hopkins_logo: true
+enable_hopkins_logo: false
 
 # The option is used to show the last update time.
 enable_last_update: false
@@ -21,20 +21,20 @@ enable_last_update: false
 link_type: icon #text/icon
 google_scholar: https://scholar.google.com/citations?user=Qi2PSmEAAAAJ
 github_link: https://github.com/yaoyao-liu/
-linkedin: https://www.linkedin.com/in/liuyaoyao/
-twitter: https://twitter.com/YaoyaoLiu1/
+linkedin: https://www.linkedin.com/in/debanjan-goswami/
+# twitter: https://twitter.com/YaoyaoLiu1/
 
 # Images 
 avatar: /assets/img/myIMG.jpg
 
 # Footnotes
-footnote: Feel free to use my website's source code.
-footnote_link: https://github.com/yaoyao-liu/minimal-light
+footnote: Page is updated on a monthly basis.
+#footnote_link: https://github.com/yaoyao-liu/minimal-light
 
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 
 # Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-clustrmaps_id: HV0rAUdAxpfEQLOsVs0FcJTR2rKVI5sEQUZIDM-N_HY
+clustrmaps_id: h0jZgr1ySUDVlbruM-CmlYoinb22hKSRz7KFnMRgsP4
 
 # The following files will be removed from the generated website.
 exclude:
