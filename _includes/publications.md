@@ -2,8 +2,6 @@
 
 <h2 style="margin: 60px 0px -15px;">Publications <span style="font-size:15px;">[</span><a href="https://scholar.google.com/citations?user=Ce-FKAYAAAAJ&hl=en" target="_blank" style="font-size:15px;">Google Scholar</a><span style="font-size:15px;">]</span><span style="font-size:15px;">[</span><a href="https://dblp.org/pid/298/8319.html" target="_blank" style="font-size:15px;">DBLP</a><span style="font-size:15px;">]</span></h2>
 
-https://scholar.google.com/citations?user=Ce-FKAYAAAAJ&hl=en
-
 <div class="publications">
 <ol class="bibliography">
 
