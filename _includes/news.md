@@ -1,20 +1,24 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-<li><strong>[Feb. 2026]</strong> I will give a talk on data-efficient learning at <a href="https://cse.ucsd.edu/">UC San Diego</a>.</li>
-<li><strong>[Nov. 2025]</strong> Recognized as a <a href="https://nips.cc/Conferences/2025/ProgramCommittee#top-ac">Top Area Chair</a> at <a href="https://nips.cc/Conferences/2025/">NeurIPS 2025</a>.</li>
-<li><strong>[Nov. 2025]</strong> Selected for the <a href="https://aaai.org/conference/aaai/aaai-26/new-faculty-highlights-program/">AAAI-26 New Faculty Highlights Program</a>.</li>
-<li><strong>[Oct. 2025]</strong> I will give a talk at the <a href="https://mclworkshop25.github.io/mcl-iccv2025/ICCV2025/">Workshop on Multimodal Continual Learning</a>, <a href="https://iccv.thecvf.com/Conferences/2025">ICCV 2025</a>.</li>
-<li><strong>[Sep. 2025]</strong> I gave invited talks on continual learning and 3D at <a href="https://engineering.msu.edu/departments/cse">MSU</a> and <a href="https://cs.uic.edu/">UIC</a>. </li>
-<li><strong>[Aug. 2025]</strong> I will serve as an Editorial Board Member of <a href="https://link.springer.com/journal/11263">IJCV</a>.</li>
-<li><strong>[Jul. 2025]</strong> Our paper about <a href="https://yaoyaoliu.cs.illinois.edu/preprints/Prompt_Based_Exemplar_Super_Compresion_and_Regeneration_for_Class_Incremental_Learing.pdf">continual learning</a> is accepted to <a href="https://bmvc2025.bmva.org/">BMVC 2025</a>.</li>
-<li><strong>[Feb. 2025]</strong> Our paper about <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Tian_Meta-Learning_Hyperparameters_for_Parameter_Efficient_Fine-Tuning_CVPR_2025_paper.pdf">meta-learning</a> is accepted to <a href="https://cvpr.thecvf.com/">CVPR 2025</a>.</li>
-<li><strong>[Oct. 2024]</strong> Honored to receive the <a href="https://www.ecva.net/index.php#awards">ECVA PhD Award</a>!</li>
-<li><strong>[Oct. 2024]</strong> I gave guest lectures on 3D at <a href="https://cse.engin.umich.edu/">UMich</a> and <a href="https://engineering.ucsc.edu/departments/computer-science-and-engineering/">UC Santa Cruz</a>. </li>
-<li><strong>[Sep. 2024]</strong> Two papers about <a href="./publications/">3D</a> are accepted to <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> and its D&B track.</li>
-<li><strong>[Jul. 2024]</strong> Our paper about <a href="https://www.cs.jhu.edu/~yyliu/preprints/iNeMo_Incremental_Neural_Mesh_Models_for_Robust_Class-Incremental_Learning.pdf">robust class-incremental learning</a> is accepted to <a href="https://eccv2024.ecva.net/">ECCV 2024</a>.</li>
-<li><strong>[Jun. 2024]</strong> I gave a talk on 3D generative models at <a href="https://sites.google.com/view/cvpr24-ac-workshop/">CVPR 2024 Area Chair Workshop</a>. </li>
-<li><strong>[Jan. 2024]</strong> Our paper about <a href="https://arxiv.org/pdf/2306.08103.pdf">diffusion models</a> is accepted to <a href="https://iclr.cc/Conferences/2024/">ICLR 2024</a>.</li>
+<li><strong>[Apr. 2026]</strong> Invited to serve as a reviewer for <a href="https://www.embs.org/tmi/">IEEE Transactions on Medical Imaging</a>.</li>
+<li><strong>[Apr. 2026]</strong> Invited to serve as a reviewer for <a href="https://neurips.cc/">NeurIPS 2026</a>.</li>
+<li><strong>[Sep. 2025]</strong> Invited to serve as a reviewer for <a href="https://iclr.cc/">ICLR 2026</a>.</li>
+<li><strong>[Sep. 2025]</strong> Dean’s Award for Doctoral Excellence renewal for the 2025–2026 academic year.</li>
+<li><strong>[Sep. 2025]</strong> Invited to serve as a reviewer for <a href="https://dl.acm.org/journal/csur">ACM Computing Surveys</a>.</li>
+<li><strong>[Aug. 2025]</strong> First-author paper, <em>MediVLM: A Vision Language Model for Radiology Report Generation from Medical Images</em>, accepted at <a href="https://2025.emnlp.org/">EMNLP Findings 2025</a>.</li>
+<li><strong>[Aug. 2025]</strong> Invited to serve as a reviewer for <a href="https://aistats.org/">AISTATS 2026</a>.</li>
+<li><strong>[May 2025]</strong> Invited to serve as a reviewer for <a href="https://bmvc2025.bmva.org/">BMVC 2025</a>.</li>
+<li><strong>[Mar. 2025]</strong> Presented my IJCNN 2023 paper, <em>Active Learning for Video Classification with Frame Level Queries</em>, at the <a href="https://www.cs.fsu.edu/">CS Student Seminar</a>, Florida State University.</li>
+<li><strong>[Feb. 2025]</strong> Awarded NSF Travel Grant to attend the <a href="https://wacv2025.thecvf.com/">IEEE/CVF WACV 2025</a> Doctoral Consortium.</li>
+<li><strong>[Feb. 2025]</strong> Received Doctoral Dissertation Grant from The Graduate School.</li>
+<li><strong>[Feb. 2025]</strong> Invited to serve as a reviewer for <a href="https://neurips.cc/">NeurIPS 2025</a>.</li>
+<li><strong>[Feb. 2025]</strong> Invited to serve as a reviewer for <a href="https://iccv.thecvf.com/">ICCV 2025</a>.</li>
+<li><strong>[Jan. 2025]</strong> Selected as a participant at the <a href="https://wacv2025.thecvf.com/">IEEE/CVF WACV 2025</a> Doctoral Consortium.</li>
+<li><strong>[Dec. 2024]</strong> Invited to serve as a reviewer for <a href="https://icml.cc/">ICML 2025</a>.</li>
+<li><strong>[Nov. 2024]</strong> First-author paper, <em>Active Learning for Image Segmentation with Binary User Feedback</em>, accepted at <a href="https://wacv2025.thecvf.com/">IEEE/CVF WACV 2025</a>.</li>
+<li><strong>[Nov. 2024]</strong> Invited to serve as a reviewer for <a href="https://cvpr.thecvf.com/">CVPR 2025</a>.</li>
+<li><strong>[Nov. 2024]</strong> Invited to serve as a reviewer for <a href="https://2025.ijcnn.org/">IJCNN 2025</a>.</li>
   
 
 <li> <a href="#" onclick="toggleVis(this); return false;">Show more</a> </li>
