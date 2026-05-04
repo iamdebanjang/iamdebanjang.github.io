@@ -61,8 +61,8 @@ main:
     authors: "<strong>Debanjan Goswami</strong>, Bishal Bashyal, Shayok Chakraborty"
     conference_short: "ICPR"
     conference: "International Conference on Pattern Recognition (ICPR), 2026."
-    notes: "Arxiv coming soon"
     image: "/assets/img/icpr_lowlight_teaser.png"
+    notes: "Arxiv coming soon"
 
   
  # - title: "HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting"
