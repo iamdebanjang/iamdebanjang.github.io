@@ -17,7 +17,7 @@ I was a recipient of the **Dean's Award for Doctoral Excellence (DADE)** award f
 <div style="border: 1px solid #ccc; padding: 11px; background-color: #f9f9f9; color: #333; border-radius: 5px;">
 <strong style="color:#e74d3c;">
 Please find my current and ongoing <a href="https://iamdebanjang.github.io/projects/">Projects</a>. 
-I am actively looking for postions in industry/academica relevant to my research interests.  </strong>
+I am actively looking for postions in industry/academia relevant to my research interests.  </strong>
 </div>
 
 {% include_relative _includes/news.md %}
